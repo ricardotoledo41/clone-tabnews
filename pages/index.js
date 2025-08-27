@@ -1,5 +1,6 @@
-function Home{
-    return <h1>Eu te amo lucianaaaaaaaaaaaaaaaa</h1>
+function Home{ 
+    return <h1>Eu te amo lucianaaaa!!!!!!! a Sofia e nossa thuthuquinha amo vcs duas de ++++++++++++</h1>
+
 }
 
 
